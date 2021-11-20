@@ -1,2 +1,2 @@
-# coronia
+# Coronia
 Coronia RPG Game
